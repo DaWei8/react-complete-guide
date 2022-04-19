@@ -1,0 +1,27 @@
+.Body {
+    padding-left: 150px;
+    padding-right: 100px;
+    max-width: 90%;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    justify-content: left;
+}
+
+.Body-item-heading {
+    font-weight: bold;
+    font-size: 20px;
+}
+.Body-item {
+    text-align: left;
+    padding-bottom: 10px;
+
+}
+
+.Title {
+    font-weight: bold;  
+}
+
+.Line-text {
+    flex-direction: row;
+}

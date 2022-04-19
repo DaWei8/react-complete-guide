@@ -1,0 +1,49 @@
+.Side-element-item {
+    max-width: fit-content;
+    text-align: left;
+    font-size: 14px;
+}
+
+.Header {
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    background-color: #187ab3;
+    min-height: 35vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    font-size: calc(5px + 2vmin);
+    color: white;
+}
+
+.Side-element {
+    padding-top: 30px;
+    box-sizing: border-box;
+    text-align: left;
+    padding-left: 500px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.My-name{
+    flex-direction: column;
+    font-size: 50;
+    text-align: left;
+    align-items: flex-start;
+}
+
+.Side-element-heading {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Header-logo {
+    font-weight:bolder;
+    font-size: 10;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    padding-left: 50px;
+}
